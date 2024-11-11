@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+}
+h1,h2 {
+    color: chocolate;
+}
+ul li a {
+    color: gold;
+}
+ul li a {
+    color: red;
+}
+#p1 {
+    color: aqua;
+}
+.p2 {
+    color: limegreen;
+}
+.cetak {
+    font-weight: bold;
+}
+p.cetak {
+    font-size: 30px;
+}
